@@ -1,3 +1,3 @@
-## Hello world 
-haii nama saya *seno*.<br>
-saya seorang junior web development, saat ini saya sedang menempuh pendidikan disalah satu universitas swasta di jawa timur. trimakasih sudah berkunjung ke akun github saya. 
+### Hello world 
+   hi my name is *seno*.<br>
+   I am a junior web development, currently I am studying at a private university in East Java. Thank you for visiting my github account.
